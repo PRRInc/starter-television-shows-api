@@ -1,21 +1,9 @@
 {
   "shows": [
     {
-      "id": "SLHUwyN",
-      "type": "TV Show",
-      "title": "Scream Queens",
-      "country": "United States",
-      "dateAdded": "",
-      "releaseYear": 2015,
-      "rating": "TV-14",
-      "duration": "2 Seasons",
-      "listedIn": "Comedy, Horror, Mystery",
-      "description": "SCREAM QUEENS is a new genre-bending comedy-horror anthology series. The series, produced by 20th Century Fox Television, is from Ryan Murphy, Brad Falchuk, Ian Brennan and Dante Di Loreto, the executive producers of GLEE and “American Horror Story.” The first installment in the new anthology series revolves around a college campus which is rocked by a series of murders."
-    },
-    {
       "id": "nzhZVSK",
       "type": "TV Show",
-      "title": "Star Trek: Deep Space Nine",
+      "title": "Star Trek: Deep Space Nince",
       "country": "United States",
       "dateAdded": "",
       "releaseYear": 1995,
@@ -1187,6 +1175,30 @@
       "duration": "4 Seasons",
       "listedIn": "Crime, Drama, International",
       "description": "Modern Whitechapel is experiencing déjà vu with a series of murders that exactly copy those of perpetrated by Jack the Ripper. Can Detective Chandler, a rookie when it comes to murder cases, bring safety back to the streets of Whitechapel?"
+    },
+    {
+      "type": "TV Show",
+      "title": "ALF",
+      "country": "United States",
+      "dateAdded": "4-29-2024",
+      "description": "Gordon Shumway is an alien from the planet Melmac who follows an amateur radio signal to Earth and crash-lands into the garage of the Tanners, a suburban middle-class family who live in the San Fernando Valley area of California. The family consists of social worker Willie (Max Wright), his wife Kate (Anne Schedeen), their teenage daughter Lynn (Andrea Elson), younger son Brian (Benji Gregory) and their pet cat Lucky (whom Gordon wishes to consume). Willie Tanner gives Gordon the nickname ALF (\"Alien Life Form\").",
+      "duration": "4 Seasons",
+      "listedIn": "Sitcom, Science Fiction, Comedy",
+      "rating": "TV-14",
+      "releaseYear": "1986",
+      "id": "r4Nm7go"
+    },
+    {
+      "type": "TV Show",
+      "title": "Exosquad",
+      "country": "United States",
+      "dateAdded": "4-30-2024",
+      "description": "Set in the years 2119–2121 AD,[6] decades after humanity (\"Terrans\") has expanded beyond Earth, terraforming and colonizing Venus and Mars. These three planets are \"the Homeworlds\", the core first of the Terran interplanetary state and later of Neosapien Commonwealth. Not all Terrans are affiliated with the Homeworlds, however: there is an independent faction of Pirate Clans, descendants of Terran criminals exiled to the Outer Planets who live off looted Homeworlds' space freighters. The first episode opens with the Earth Congress dispatching the entire Exofleet, humanity's space-based military, to counter the Pirate threat.  With war with the Pirate Clans looming, an uprising begins among the Neosapiens, an artificial humanoid race coexisting with Terrans. In the back-story, the Neosapiens were used primarily as slaves during the colonization of Mars and Venus and therefore have been engineered to be physically stronger and better adapted to hostile environments than humans. Their mistreatment by Terrans led to the First Neosapien Revolt fifty years before the series' begin, which was mercilessly crushed but had brought some positive changes into their lives. Still not content with his fate, the Neosapien Governor of Mars, Phaeton, sets a new insurrection, codenamed \"Operation [Neosapien] Destiny\", in motion as soon as the Exofleet leaves to chase after the Pirate Clans. The absence of the Exofleet is also a part of Phaeton's plan as it enables the Neosapiens' capture of the Homeworlds without much effort.",
+      "duration": "3 Seasons",
+      "listedIn": "Cartoon, Science Fiction, Comedy",
+      "rating": "TV-14",
+      "releaseYear": "1993",
+      "id": "YvDDchr"
     }
   ],
   "movies": [
